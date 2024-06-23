@@ -1,10 +1,12 @@
+package br.com.sistema_autodromo;
+
 public class Carro extends Veiculo {
 
     @Override
     public void ligar() {
         confereCambio();
         confereCombusticel();
-        System.out.println("Carro ligado!");
+        System.out.println("br.com.sistema_autodromo.Carro ligado!");
     }
 
     private void confereCombusticel() {

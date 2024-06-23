@@ -1,3 +1,5 @@
+package br.com.sistema_autodromo;
+
 public abstract class Veiculo {
     private String chassi;
 
