@@ -19,5 +19,5 @@ numero -> numero % 2 == 0
 
 // BinaryOperator<(T,T), T>
 // BinaryOperator (Com 2 Argumentos + Com retorno)
-
+(num1, num2) -> num1 + num2
 ````
