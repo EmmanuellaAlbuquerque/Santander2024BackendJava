@@ -3,6 +3,7 @@ package map.livraria_online;
 import java.util.*;
 
 public class LivrariaOnline {
+
     private Map<String, Livro> livrosMap;
 
     public LivrariaOnline(){
@@ -21,7 +22,7 @@ public class LivrariaOnline {
                 titulosParaRemover.add(entry.getKey());
             }
         }
-        
+
         for (String chave : titulosParaRemover) {
             livrosMap.remove(chave);
         }
