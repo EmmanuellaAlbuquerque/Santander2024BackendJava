@@ -8,6 +8,7 @@ Repositório para armazenar estudos sobre o curso Santander 2024 - Backend com J
 - [Guia de Collection Framework API da Camila Cavalcante](https://github.com/cami-la/collections-java-api-2023)
 - [Guia de Stream API da Camila Cavalcante](https://github.com/digitalinnovationone/ganhando_produtividade_com_Stream_API_Java)
 - [Intro Collections da Camila Cavalcante](https://github.com/cami-la/curso-dio-intro-collections/)
+- [Guia POO da Camila Cavalcante](https://github.com/cami-la/desafio-poo-dio)
 
 <!-- ## 💻 Resumos das Aulas
 

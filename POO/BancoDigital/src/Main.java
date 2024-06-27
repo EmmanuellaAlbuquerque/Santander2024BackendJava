@@ -14,7 +14,7 @@ public class Main {
         banco.listarClientes();
 
         contaCorrente.depositar(100);
-        contaCorrente.transferir(contaPoupanca, 200);
+        contaCorrente.transferir(contaPoupanca, 50);
 
         contaPoupanca.imprimirExtrato();
         contaCorrente.imprimirExtrato();
