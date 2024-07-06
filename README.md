@@ -9,10 +9,5 @@ Repositório para armazenar estudos sobre o curso Santander 2024 - Backend com J
 - [Guia de Stream API da Camila Cavalcante](https://github.com/digitalinnovationone/ganhando_produtividade_com_Stream_API_Java)
 - [Intro Collections da Camila Cavalcante](https://github.com/cami-la/curso-dio-intro-collections/)
 - [Guia POO da Camila Cavalcante](https://github.com/cami-la/desafio-poo-dio)
+- [Gitbook de Spring Framework do Gleyson Sampaio](https://glysns.gitbook.io/spring-framework)
 
-<!-- ## 💻 Resumos das Aulas
-
-| Aulas | Resumos |
-|-------|---------|
-|nome da aula | [linkdaaula]() |
- -->
