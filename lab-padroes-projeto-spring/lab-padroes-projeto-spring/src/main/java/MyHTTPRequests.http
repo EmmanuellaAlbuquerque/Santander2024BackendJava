@@ -1,0 +1,27 @@
+POST http:localhost:8080/clientes
+
+Body:
+{
+  "nome": "Manu",
+  "endereco": {
+    "cep": "58900000"
+  }
+}
+
+Retorno:
+{
+  "id": 3,
+  "nome": "Manu",
+  "endereco": {
+    "cep": "58900-000",
+    "logradouro": "",
+    "complemento": "",
+    "bairro": "",
+    "localidade": "Cajazeiras",
+    "uf": "PB",
+    "ibge": "2503704",
+    "gia": "",
+    "ddd": "83",
+    "siafi": "1975"
+  }
+}
