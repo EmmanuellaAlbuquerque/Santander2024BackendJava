@@ -29,6 +29,13 @@ dependencies {
 	testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
 }
 
+// config for railway cloud deploy
+tasks.jar {
+	manifest {
+		attributes["Main-Class"] = "me.dio.SantanderDevWeekApplication"
+	}
+}
+
 tasks.named('test') {
 	useJUnitPlatform()
 }
